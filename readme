@@ -2,15 +2,16 @@
 
 # India states folder contains the GIS files.
 
-#Synthetic folder contains synthetic data that was created.
+# Synthetic folder contains synthetic data that was created.
 
-#Web app folder contains the Random forest and LSTM model, the dataset for the test and web app (app.py).
+# Web app folder contains the Random forest and LSTM model, the dataset for the test and web app (app.py).
 
 # File Sandeep Shrestha_Thesis contains the development process.
 
-#Air_Quality_Index_Data.csv contains the pollution data.
+# Air_Quality_Index_Data.csv contains the pollution data.
 
 # Site.csv contains the AQI station data.
 
+# Primaey folder contains the data of traffic.
 
 THANKYOU.
